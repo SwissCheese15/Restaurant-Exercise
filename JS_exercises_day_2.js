@@ -90,7 +90,7 @@ class Ingredient {
 // Creating Instance of Restaurant
 let restaurant = new Restaurant
 
-// Creating Instances of Class "Ingredient" to make separate ingretients
+// Creating Instances of Class "Ingredient" to make separate ingredients
 const cheese = new Ingredient("Cheese", 5)
 const tomato = new Ingredient("Tomato", 2)
 const dough = new Ingredient("Dough", 2)
