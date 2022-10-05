@@ -98,7 +98,7 @@ const meat = new Ingredient("Meat", 8)
 const spice = new Ingredient("Spice", 2)
 const vodka = new Ingredient("Vodka", 3)
 
-// Creating Instances of Class "Ingredient" to make separate ingretients
+// Creating Instances of Class "Dish" to make separate dishes
 const pizza = new Dish("Pizza", 32, [cheese, tomato, dough, meat])
 const salad = new Dish("Salad", 30, [spice, tomato, meat])
 const burger = new Dish ("Burger", 32, [meat, tomato, spice, dough])
